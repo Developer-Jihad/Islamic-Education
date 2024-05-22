@@ -1,0 +1,13 @@
+.single-card{
+    box-shadow: 5px 5px 5px lightgray;
+    border-radius: 10px;
+    margin: 10px;
+}
+.card-image{
+    height: 250px;
+    border-radius: 10px;
+}
+.card-title{
+    font-weight: 700;
+    color: tomato;
+}

@@ -1,0 +1,53 @@
+ [
+  {
+    "id": 1,
+    "catagory": "Learn The Quran",
+    "cost": 0,
+    "img": "https://thequranclasses.online/wp-content/uploads/2020/12/Learn-Quran-for-Kids-The-Quran-Classes.png"
+  },
+  
+  {
+    "id": 3,
+    "catagory": "Understand the Quran",
+    "cost": 120,
+    "img": "https://islam.worldofislam.info/images/stories/anwar/Understanding-Quran.jpg"
+  },
+  
+  {
+    "id": 5,
+    "catagory": "Learn Tafsir",
+    "cost": 130,
+    "img": "https://itqanelquran.com/wp-content/uploads/2021/09/8.jpg"
+  },
+  
+  {
+    "id": 8,
+    "catagory": "The Productive Muslim",
+    "cost": 190,
+    "img": "https://muslimcentral.com/wp-content/uploads/the-productive-muslim-podcast-300x300.jpg"
+  },
+  {
+    "id": 4,
+    "catagory": "Learn Hadis",
+    "cost": 100,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Hadith1.png"
+  },
+  {
+    "id": 6,
+    "catagory": "Apply Quranic Knowledge",
+    "cost": 150,
+    "img": "https://i2.wp.com/islamhashtag.com/wp-content/uploads/2020/01/seeking-ilm.jpg?resize=461%2C312&ssl=1"
+  },
+  {
+    "id": 7,
+    "catagory": "Be A Practicing Muslim",
+    "cost": 170,
+    "img": "https://img.freepik.com/premium-photo/muslim-boy-learning-how-make-dua-allah_1132241-455.jpg"
+  },
+  {
+    "id": 2,
+    "catagory": "Quranic Arabic Language",
+    "cost": 100,
+    "img": "https://d37sy4vufic209.cloudfront.net/website/_next/static/dynamic/1a88a0280aba744298ea93da79b8f836/700.jpg"
+  }
+]
